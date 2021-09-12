@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Avni Uplabdhee</h1>
 <h3 align="center">A CSE sophomore from IGDTUW, Delhi. I am on 100 days of DSA and a keen interest to try development domains of ML and Web Development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizengirl11111" alt="kaizengirl11111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizengirl1111" alt="kaizengirl1111" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures in C++ and Machine Learning.**
 
