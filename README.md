@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizengirl1111" alt="kaizengirl1111" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures in C++ and Machine Learning.**
+- 🌱 I’m a **Github Campus Expert, Udacity AWS ML Scholar, Postman Student Leader and founder of GrihSangini.**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10UfEJANBqch8XLZFx6gW4r_lQNUZRBgR/view?usp=sharing](https://drive.google.com/file/d/10UfEJANBqch8XLZFx6gW4r_lQNUZRBgR/view?usp=sharing)
 
