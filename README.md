@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2683272/screenshots/8229435/media/6285fcda541c3035124d1600c54b6837.jpg">
 <h1 align="center">Hi 👋, I'm Avni Uplabdhee</h1>
-<h3 align="center">A CSE sophomore from IGDTUW, Delhi. I am on 100 days of DSA and a keen interest to try development domains of ML and Web Development.</h3>
+<h3 align="center">Open source maintainer, aspiring entrepreneur and budding coder!.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizengirl1111" alt="kaizengirl1111" /></a> </p>
 
