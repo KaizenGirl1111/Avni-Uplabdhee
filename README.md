@@ -2,14 +2,13 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2683272/screenshots/8229435/media/6285fcda541c3035124d1600c54b6837.jpg">
 <h1 align="center">Hi 👋, I'm Avni Uplabdhee</h1>
-<h3 align="center">Open source maintainer, aspiring entrepreneur and budding coder!.</h3>
+<h3 align="center">Currently rising from the ashes.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizengirl1111" alt="kaizengirl1111" /></a> </p>
 
-- 🌱 I’m a **Github Campus Expert, Udacity AWS ML Scholar, Postman Student Leader and founder of GrihSangini.**
+- 🌱 I’m a **Github Campus Expert, Postman Student Leader and Linux Open Source Scholar**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10UfEJANBqch8XLZFx6gW4r_lQNUZRBgR/view?usp=sharing](https://drive.google.com/file/d/10UfEJANBqch8XLZFx6gW4r_lQNUZRBgR/view?usp=sharing)
-
+- 📄 Know about my experiences [[https://drive.google.com/file/d/10UfEJANBqch8XLZFx6gW4r_lQNUZRBgR/view?usp=sharing](https://drive.google.com/file/d/1a6Gzg2XQ0bxIrsJkwrMO_-_6sCN_Ewed/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kaizengirl1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaizengirl1111" height="30" width="40" /></a>
